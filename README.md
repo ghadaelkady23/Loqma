@@ -9,5 +9,7 @@ Aya Taha-UI&UX Designer
 
 ## Instructor:Eng.Mohamed Qamer
 
-## Project Links
-[Figma Link]([[https://www.figma.com/](https://www.figma.com/board/fWwesVdTn8DP1XOWL4cFYT/Final-Prroject?node-id=0-1&t=o0GOPrhEMPyTy0eo-1)]
+
+## 🔗 Project Links
+
+[Figma](https://www.figma.com/board/fWwesVdTn8DP1XOWL4cFYT/?node-id=0-1&t=APD6rNfrOONOl8s6-1)
