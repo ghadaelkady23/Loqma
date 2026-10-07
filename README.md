@@ -17,4 +17,6 @@ Aya Taha-UI&UX Designer
 
 ## 🔗 Project Links
 
-[Figma](https://www.figma.com/board/fWwesVdTn8DP1XOWL4cFYT/?node-id=0-1&t=APD6rNfrOONOl8s6-1)
+[Figjam](https://www.figma.com/board/fWwesVdTn8DP1XOWL4cFYT/?node-id=0-1&t=APD6rNfrOONOl8s6-1)
+
+[Figma](https://www.figma.com/design/LwMbdRcinVab7L5J8EaCer/Final-Project?node-id=0-1&t=CGBcnWgvDiK6g4MA-1)
