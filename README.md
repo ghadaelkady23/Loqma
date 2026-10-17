@@ -12,6 +12,8 @@ Heba Salah-UI&UX Designer
 
 Aya Taha-UI&UX Designer
 
+Hussein Hassan Elyamany
+
 ## Instructor:Eng.Mohamed Qamer
 
 
@@ -19,4 +21,4 @@ Aya Taha-UI&UX Designer
 
 [Figjam](https://www.figma.com/board/fWwesVdTn8DP1XOWL4cFYT/?node-id=0-1&t=APD6rNfrOONOl8s6-1)
 
-[Figma](https://www.figma.com/design/LwMbdRcinVab7L5J8EaCer/Final-Project?node-id=0-1&t=CGBcnWgvDiK6g4MA-1)
+[Figma](https://www.figma.com/design/Bn7IionkvdnePNytAAFJBf/Loqma?node-id=0-1&t=ZEdFIxzaWMd5Fl5z-1)
