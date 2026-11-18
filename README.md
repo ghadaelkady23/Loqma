@@ -47,6 +47,67 @@ Many food businesses end the day with fresh items that are still good today but 
 
 ---
 
+## 👤 User Personas
+
+### 1. Mohamed Atta (Primary Persona)
+
+**About:** A 21-year-old university student living away from his family. He buys ready-made meals and baked goods 3–5 times a week and looks for affordable deals nearby.
+
+**Needs**
+- Easy comparison of prices and discounts.
+- Cash or e-wallet payment options.
+
+**Frustrations**
+- Too many options to choose from.
+- Offers running out after he selects a meal.
+
+**Goals**
+- Find filling meals that fit his budget.
+- Discover nearby offers quickly.
+- Place orders easily with a convenient payment method.
+
+**Behavior**
+- Prefers specific meals over surprise bags.
+- Cares about distance and how fast he can get his order.
+
+---
+
+### 2. Romaysaa Mohamed (Secondary Persona)
+
+**About:** A 38-year-old married mother responsible for her household needs. She balances family spending with product quality and cares about offers that save money.
+
+**Needs**
+- A variety of offers from well-known shops.
+- A choice between pickup and delivery based on family needs.
+
+**Frustrations**
+- She doesn't know the exact quantity.
+- Hard to confirm a product is available before going to the shop.
+
+**Goals**
+- Buy the right amount for her family.
+- Choose trusted shops and benefit from nearby bakery and restaurant offers.
+
+**Behavior**
+- Compares price, quantity, and quality before buying.
+- Cares about the final cost before confirming the order.
+
+---
+
+### 🔗 Shared by Both Personas
+
+**Needs**
+- Clear photos, ingredients, quantity, and price.
+- Reliable reviews of shops and food quality.
+
+**Frustrations**
+- Unclear food quality or freshness.
+- Unclear prices or extra fees at checkout.
+
+**Goals**
+- Save money without losing quality.
+- Know all product details and the final cost before paying.
+
 ## 👥 Team Members
 Ghada Elkady_UI/UX Designer 
 
@@ -58,61 +119,3 @@ Aya Taha_UI/UX Designer
 
 Hussein Elyamany_UI/UX Designer
 
----
-
-## 👤 User Personas
-
-### 1. Mohamed Atta (Primary Persona)
-
-**About:** A university student who buys ready-made meals and baked goods 3–5 times a week. He looks for affordable deals nearby and wants to know the ingredients and details before ordering.
-
-**Needs**
-- Clear photos, ingredients, and meal details.
-- Easy comparison of prices and discounts.
-- Reliable reviews from past customers.
-- Cash or e-wallet payment with a clear total cost.
-
-**Frustrations**
-- Unclear prices or delivery fees before checkout.
-- Too many options to choose from.
-- Unsure about food quality and freshness.
-- Offers running out after he selects a meal.
-
-**Goals**
-- Find filling meals that fit his budget.
-- Discover nearby offers quickly.
-- Know all meal details before paying.
-- Order easily with a convenient payment method.
-
-**Behavior**
-- Compares price and quality before buying.
-- Prefers specific meals over surprise bags.
-- Cares about distance and how fast he can get his order.
-
----
-
-### 2. Romaysaa Mohamed (Secondary Persona)
-
-**About:** A 38-year-old married mother, responsible for her household needs. She balances family spending with product quality and cares about offers that save money.
-
-**Needs**
-- Clear information on ingredients, quantity, and price.
-- Reliable reviews of the shop and food quality.
-- A variety of offers from well-known shops.
-- A choice between pickup and delivery based on family needs.
-
-**Frustrations**
-- Food quality is unclear.
-- She doesn't know the exact quantity.
-- She finds extra fees at checkout.
-- Hard to confirm a product is available before going to the shop.
-
-**Goals**
-- Save on food costs without losing quality.
-- Buy the right amount for her family.
-- Benefit from nearby bakery and restaurant offers.
-- Choose trusted shops and know product details.
-
-**Behavior**
-- Compares price, quantity, and quality.
-- Cares about the final cost before confirming the order.
