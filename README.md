@@ -33,61 +33,13 @@ Many food businesses end the day with fresh items that are still good today but 
 ---
 
 ## 📊 Market Research
-## 🎤 User Interview Questions
-
-### 1. Opening Questions
-1. Can you briefly introduce yourself?
-2. How many times a week do you buy ready-made meals or baked goods?
-3. What matters most to you when choosing a meal?
-4. Have you ever bought food from end-of-day offers? Tell me about that experience.
-
-### 2. Expectations & Features
-5. How do you feel about an app that sells fresh meals from your favorite restaurants at a lower price at the end of the day?
-6. Would you prefer a specific meal where you know exactly what's in it, or a surprise bag at a cheaper price?
-7. How do you usually prefer to pay?
-8. Would you prefer to pick up the order yourself or have it delivered?
-9. What information do you need to see on the meal page to feel confident before buying?
-
-### 3. Challenges & Concerns
-10. What would make you hesitate to try an app like this?
-11. What frustrates you about the food delivery apps you use now?
-12. If you went to pick up your order and the food was sold out, how would you expect the app to handle it?
-
-### 1. Market Overview
-Food waste is a growing problem. Many food businesses throw away
-fresh products at the end of the day, while many young people look
-for affordable meals.
-
-### 2. Target Users
-- **University students:** filling meals on a limited budget.
-- **Employees & young adults:** affordable lunch or dinner options.
-
-### 3. Business Partners
-- Bakeries and pastry shops
-- Cafés and restaurants
-- Supermarkets and food stores
-
-### 4. Market Opportunities
-- Growing need for budget-friendly meals among students and youth.
-- Restaurants and bakeries can reduce daily waste losses.
-- Rising interest in eco-friendly solutions.
-
-### 5. Market Challenges
-- Building trust in food quality.
-- Real-time availability of quantities.
-- Clear meal contents.
-- Easy offer upload for merchants.
-
-### 6. Competitor Overview
-- **Direct:** Karma, Barakah
-- **Indirect:** Talabat, elmenus
-
-### 7. Value Proposition
-- **Users:** quality food at lower prices, quick nearby offers.
-- **Shops:** extra income from surplus food, new customers.
+<img width="4320" height="4512" alt="Section (2)" src="https://github.com/user-attachments/assets/b8c14762-042c-4b27-9ee6-12921f0d62bd" />
 
 ---
+## 📊 Interview Questions
+<img width="4320" height="4589" alt="Section (3)" src="https://github.com/user-attachments/assets/4a2716fb-3200-4d6b-9ab7-5086488849fd" />
 
+---
 ## ⚠️ Problem Statement
 <img width="4320" height="4469" alt="Section" src="https://github.com/user-attachments/assets/62dbe611-398a-42bb-a88f-95891148c895" />
 
