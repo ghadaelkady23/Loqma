@@ -89,13 +89,9 @@ for affordable meals.
 ---
 
 ## ⚠️ Problem Statement
+<img width="4320" height="4469" alt="Section" src="https://github.com/user-attachments/assets/62dbe611-398a-42bb-a88f-95891148c895" />
 
-| # | Challenge | Solution |
-|---|-----------|----------|
-| 1 | Users may worry about food quality | Show clear photos, ingredients, and prices, and mark items as "Fresh Today" |
-| 2 | Quantities change quickly during the day | Update stock in real time and send alerts to users |
-| 3 | Shops need a quick way to post offers | Provide a simple and fast upload screen for merchants |
-| 4 | Mostly pickup, with limited delivery | Let users choose between pickup and delivery |
+<img width="4320" height="4149" alt="Section (1)" src="https://github.com/user-attachments/assets/7fadccc3-3ad1-4983-ba14-c261f273ba85" />
 
 ---
 # Competitor Analysis
