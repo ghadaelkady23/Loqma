@@ -116,5 +116,4 @@ for affordable meals.
 
 <img width="3840" height="2381" alt="Card (4)" src="https://github.com/user-attachments/assets/92a4d728-340f-40c7-b634-881349a47e2e" />
 
----
 <img width="3840" height="2432" alt="Card (5)" src="https://github.com/user-attachments/assets/0bbc0477-6c5d-4e93-b621-f2c5ea7febb8" />
