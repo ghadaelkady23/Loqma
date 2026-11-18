@@ -1,4 +1,3 @@
-<img width="3720" height="2983" alt="App" src="https://github.com/user-attachments/assets/d1e2b75d-79aa-4bef-b69e-83a46505403d" />
 # 🍱 Loqma (لقمة)
 
 **Loqma** is a food-saving platform that helps cafés, bakeries, restaurants, and food stores reduce food waste by selling their unsold products at discounted prices before the end of the day. Instead of discarding fresh, surplus food, businesses can list it on Loqma, making it available for customers looking for affordable food options.
