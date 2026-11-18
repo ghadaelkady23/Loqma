@@ -5,6 +5,17 @@
 Users can explore nearby offers, view product details, prices, discounts, and availability, and choose between pickup or delivery. Loqma creates a **win-win solution** by helping businesses recover value from unsold food, giving customers access to affordable meals, and reducing food waste.
 
 ---
+## 👥 Team Members
+Ghada Elkady_UI/UX Designer 
+
+Yasmeen Mohamed_UI/UX Designer
+
+Heba Salah_UI/UX Designer
+
+Aya Taha_UI/UX Designer
+
+Hussein Elyamany_UI/UX Designer
+---
 
 ## 📖 Project Idea
 
@@ -108,14 +119,4 @@ Many food businesses end the day with fresh items that are still good today but 
 - Save money without losing quality.
 - Know all product details and the final cost before paying.
 
-## 👥 Team Members
-Ghada Elkady_UI/UX Designer 
-
-Yasmeen Mohamed_UI/UX Designer
-
-Heba Salah_UI/UX Designer
-
-Aya Taha_UI/UX Designer
-
-Hussein Elyamany_UI/UX Designer
 
