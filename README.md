@@ -32,19 +32,40 @@ Many food businesses end the day with fresh items that are still good today but 
 
 ---
 
-## 💡 Solution Overview
+## 📊 Market Research
 
-### 1. Real-Time Digital Ecosystem
-- Mobile app (iOS & Android) that uses **GPS** to show the nearest live offers.
-- **Push notifications** for new offers and low-stock alerts.
+### 1. Market Overview
+Food waste is a growing problem. Many food businesses throw away
+fresh products at the end of the day, while many young people look
+for affordable meals.
 
-### 2. Flexible Pickup & Delivery
-- Customers can choose **Pickup** (cheaper) or **Delivery**.
-- **Interactive maps** show distance, pickup time, and directions.
+### 2. Target Users
+- **University students:** filling meals on a limited budget.
+- **Employees & young adults:** affordable lunch or dinner options.
 
-### 3. Discount Marketplace & Fast Payment
-- Items shown with **original price**, **discount %**, and **remaining quantity**.
-- **Multiple secure payment options** for instant booking and confirmation.
+### 3. Business Partners
+- Bakeries and pastry shops
+- Cafés and restaurants
+- Supermarkets and food stores
+
+### 4. Market Opportunities
+- Growing need for budget-friendly meals among students and youth.
+- Restaurants and bakeries can reduce daily waste losses.
+- Rising interest in eco-friendly solutions.
+
+### 5. Market Challenges
+- Building trust in food quality.
+- Real-time availability of quantities.
+- Clear meal contents.
+- Easy offer upload for merchants.
+
+### 6. Competitor Overview
+- **Direct:** Karma, Barakah
+- **Indirect:** Talabat, elmenus
+
+### 7. Value Proposition
+- **Users:** quality food at lower prices, quick nearby offers.
+- **Shops:** extra income from surplus food, new customers.
 
 ---
 
