@@ -1,3 +1,4 @@
+<img width="3720" height="2983" alt="App" src="https://github.com/user-attachments/assets/d1e2b75d-79aa-4bef-b69e-83a46505403d" />
 # 🍱 Loqma (لقمة)
 
 **Loqma** is a food-saving platform that helps cafés, bakeries, restaurants, and food stores reduce food waste by selling their unsold products at discounted prices before the end of the day. Instead of discarding fresh, surplus food, businesses can list it on Loqma, making it available for customers looking for affordable food options.
@@ -100,16 +101,8 @@ for affordable meals.
 ---
 # Competitor Analysis
 
-| Comparison Point | Karma | Barakah | Loqma |
-| :--- | :--- | :--- | :--- |
-| **Target Audience** | Eco-conscious families looking to save money in Saudi Arabia | Families looking for savings on restaurant and bakery offers in Saudi Arabia | Individuals, middle-income families, and university students |
-| **Payment Method** | Pickup from the restaurant only, with electronic payment (no cash) | Electronic payment | Cash on pickup + electronic payment |
-| **Meal Display** | Specific items shown with photo and price | Surprise bags + some specific items | Clearly chosen meals and items + surprise bags |
-| **Delivery Service** | Mainly personal pickup, with some delivery options | Personal pickup + limited delivery options | Personal pickup + delivery service |
-| **Merchant Experience** | An interface to upload each item with its price and photo | An interface to upload daily bags and products | A fast merchant interface for uploading surplus food |
-| **Offer Updates** | Accurate and continuous updates of available meals | Sometimes slow in updating available quantities | Continuous updates + notifications (e.g., “only 2 meals left”) |
-| **Weaknesses** | No real delivery, relies mostly on pickup | Heavy reliance on surprise bags, which some customers dislike | Needs to build trust and a customer base as a new app |
-| **Strengths** | Clear display of meal photo, ingredients, and price | Built a strong name and partnerships with well-known chains in the Saudi and Gulf markets | Flexible payment (cash or electronic), choice between specific meals or surprise bags |
+<img width="3720" height="2983" alt="App" src="https://github.com/user-attachments/assets/568e9449-54c2-4ee8-8811-09475341580a" />
+
 ---
 
 ## 👤 User Personas
