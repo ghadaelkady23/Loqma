@@ -33,6 +33,25 @@ Many food businesses end the day with fresh items that are still good today but 
 ---
 
 ## 📊 Market Research
+## 🎤 User Interview Questions
+
+### 1. Opening Questions
+1. Can you briefly introduce yourself?
+2. How many times a week do you buy ready-made meals or baked goods?
+3. What matters most to you when choosing a meal?
+4. Have you ever bought food from end-of-day offers? Tell me about that experience.
+
+### 2. Expectations & Features
+5. How do you feel about an app that sells fresh meals from your favorite restaurants at a lower price at the end of the day?
+6. Would you prefer a specific meal where you know exactly what's in it, or a surprise bag at a cheaper price?
+7. How do you usually prefer to pay?
+8. Would you prefer to pick up the order yourself or have it delivered?
+9. What information do you need to see on the meal page to feel confident before buying?
+
+### 3. Challenges & Concerns
+10. What would make you hesitate to try an app like this?
+11. What frustrates you about the food delivery apps you use now?
+12. If you went to pick up your order and the food was sold out, how would you expect the app to handle it?
 
 ### 1. Market Overview
 Food waste is a growing problem. Many food businesses throw away
