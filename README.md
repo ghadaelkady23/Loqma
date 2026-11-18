@@ -1,7 +1,7 @@
 # 🍱Loqma
-"Good Food Should Never Go to Waste."  
+Loqma is a food-saving platform that helps cafés, bakeries, restaurants, and food stores reduce food waste by selling their unsold products at discounted prices before the end of the day. Instead of discarding fresh, surplus food, businesses can list it on Loqma, making it available for customers looking for affordable food options.
 
-📝 About The Project Loqma is a mobile app that connects businesses with customers by offering surplus food at discounted prices. Users can discover nearby offers, check prices and availability, and choose between pickup or delivery.
+Users can explore nearby offers, view product details, prices, discounts, and availability, and choose between pickup or delivery. Loqma creates a win-win solution by helping businesses recover value from unsold food, giving customers access to affordable meals, and reducing food waste.
 
 ## 👥Team Members
 Ghada Elkady-UI&UX Designer
