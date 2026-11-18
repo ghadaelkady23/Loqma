@@ -46,6 +46,10 @@ Many food businesses end the day with fresh items that are still good today but 
 <img width="4320" height="4149" alt="Section (1)" src="https://github.com/user-attachments/assets/7fadccc3-3ad1-4983-ba14-c261f273ba85" />
 
 ---
+## ⚠️ Empathy Map
+<img width="4320" height="3425" alt="Section (4)" src="https://github.com/user-attachments/assets/d8e051fc-3951-4b8d-9122-f1888f6b0e73" />
+
+---
 # Competitor Analysis
 
 <img width="3720" height="2983" alt="App" src="https://github.com/user-attachments/assets/568e9449-54c2-4ee8-8811-09475341580a" />
