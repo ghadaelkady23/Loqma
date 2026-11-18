@@ -114,65 +114,7 @@ for affordable meals.
 
 ## 👤 User Personas
 
-### 1. Mohamed Atta (Primary Persona)
-
-**About:** A 21-year-old university student living away from his family. He buys ready-made meals and baked goods 3–5 times a week and looks for affordable deals nearby.
-
-**Needs**
-- Easy comparison of prices and discounts.
-- Cash or e-wallet payment options.
-
-**Frustrations**
-- Too many options to choose from.
-- Offers running out after he selects a meal.
-
-**Goals**
-- Find filling meals that fit his budget.
-- Discover nearby offers quickly.
-- Place orders easily with a convenient payment method.
-
-**Behavior**
-- Prefers specific meals over surprise bags.
-- Cares about distance and how fast he can get his order.
 <img width="3840" height="2381" alt="Card (4)" src="https://github.com/user-attachments/assets/92a4d728-340f-40c7-b634-881349a47e2e" />
 
 ---
-
-### 2. Romaysaa Mohamed (Secondary Persona)
-
-**About:** A 38-year-old married mother responsible for her household needs. She balances family spending with product quality and cares about offers that save money.
-
-**Needs**
-- A variety of offers from well-known shops.
-- A choice between pickup and delivery based on family needs.
-
-**Frustrations**
-- She doesn't know the exact quantity.
-- Hard to confirm a product is available before going to the shop.
-
-**Goals**
-- Buy the right amount for her family.
-- Choose trusted shops and benefit from nearby bakery and restaurant offers.
-
-**Behavior**
-- Compares price, quantity, and quality before buying.
-- Cares about the final cost before confirming the order.
-
----
-
-### 🔗 Shared by Both Personas
-
-**Needs**
-- Clear photos, ingredients, quantity, and price.
-- Reliable reviews of shops and food quality.
-
-**Frustrations**
-- Unclear food quality or freshness.
-- Unclear prices or extra fees at checkout.<img width="3840" height="2381" alt="Card (4)" src="https://github.com/user-attachments/assets/8b5bdca8-168f-4ddc-9cb8-3fc8aa12ca78" />
-
-
-**Goals**
-- Save money without losing quality.
-- Know all product details and the final cost before paying.
-
-
+<img width="3840" height="2432" alt="Card (5)" src="https://github.com/user-attachments/assets/0bbc0477-6c5d-4e93-b621-f2c5ea7febb8" />
