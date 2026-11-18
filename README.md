@@ -134,6 +134,7 @@ for affordable meals.
 **Behavior**
 - Prefers specific meals over surprise bags.
 - Cares about distance and how fast he can get his order.
+<img width="3840" height="2381" alt="Card (4)" src="https://github.com/user-attachments/assets/92a4d728-340f-40c7-b634-881349a47e2e" />
 
 ---
 
@@ -167,7 +168,8 @@ for affordable meals.
 
 **Frustrations**
 - Unclear food quality or freshness.
-- Unclear prices or extra fees at checkout.
+- Unclear prices or extra fees at checkout.<img width="3840" height="2381" alt="Card (4)" src="https://github.com/user-attachments/assets/8b5bdca8-168f-4ddc-9cb8-3fc8aa12ca78" />
+
 
 **Goals**
 - Save money without losing quality.
