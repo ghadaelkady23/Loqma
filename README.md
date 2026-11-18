@@ -17,13 +17,12 @@ Hussein Elyamany-UI&UX Designer
 ## 👨🏻‍💻Instructor:Eng.Mohamed Qamer
 
 ## Work Flow
-| # | Problem | Solution |
+|   | Problem | Solution |
 | :---: | :--- | :--- |
-| 1 | Customers don’t trust the quality of leftover food | Show clear photos, ingredients, and prices for every meal |
-| 2 | Hard to update available quantities in real time | Keep stock updated automatically and send alerts about available items |
-| 3 | Meal ingredients are not always clear | List all ingredients with a photo and price |
-| 4 | Merchants find it hard to upload offers quickly | Build a simple, fast upload screen for merchants |
-| 5 | Mostly pickup only, with limited delivery | Let customers choose between pickup or delivery |
+| 1 | Customers worry about food quality | Show clear photos, ingredients, and prices, and mention that the food is fresh today |
+| 2 | Quantities change fast before the day ends | Update stock live and send alerts to users |
+| 3 | Shops need a quick way to post offers | Make a simple and fast upload screen |
+| 4 | Mostly pickup, with limited delivery | Let customers choose pickup or delivery |
 
 
 ## 🔗 Project Links
