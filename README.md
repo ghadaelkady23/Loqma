@@ -69,7 +69,7 @@ for affordable meals.
 
 ---
 
-## ⚠️ Challenges & Solutions
+## ⚠️ Problem Statement
 
 | # | Challenge | Solution |
 |---|-----------|----------|
@@ -78,6 +78,19 @@ for affordable meals.
 | 3 | Shops need a quick way to post offers | Provide a simple and fast upload screen for merchants |
 | 4 | Mostly pickup, with limited delivery | Let users choose between pickup and delivery |
 
+---
+# Competitor Analysis
+
+| Comparison Point | Karma | Barakah | Loqma |
+| :--- | :--- | :--- | :--- |
+| **Target Audience** | Eco-conscious families looking to save money in Saudi Arabia | Families looking for savings on restaurant and bakery offers in Saudi Arabia | Individuals, middle-income families, and university students |
+| **Payment Method** | Pickup from the restaurant only, with electronic payment (no cash) | Electronic payment | Cash on pickup + electronic payment |
+| **Meal Display** | Specific items shown with photo and price | Surprise bags + some specific items | Clearly chosen meals and items + surprise bags |
+| **Delivery Service** | Mainly personal pickup, with some delivery options | Personal pickup + limited delivery options | Personal pickup + delivery service |
+| **Merchant Experience** | An interface to upload each item with its price and photo | An interface to upload daily bags and products | A fast merchant interface for uploading surplus food |
+| **Offer Updates** | Accurate and continuous updates of available meals | Sometimes slow in updating available quantities | Continuous updates + notifications (e.g., “only 2 meals left”) |
+| **Weaknesses** | No real delivery, relies mostly on pickup | Heavy reliance on surprise bags, which some customers dislike | Needs to build trust and a customer base as a new app |
+| **Strengths** | Clear display of meal photo, ingredients, and price | Built a strong name and partnerships with well-known chains in the Saudi and Gulf markets | Flexible payment (cash or electronic), choice between specific meals or surprise bags |
 ---
 
 ## 👤 User Personas
