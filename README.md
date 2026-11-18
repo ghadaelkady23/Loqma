@@ -49,7 +49,70 @@ Many food businesses end the day with fresh items that are still good today but 
 
 ## 👥 Team Members
 Ghada Elkady_UI/UX Designer 
-Yasmeen Mohamed_UI/UX Designer 
-Heba Salah_UI/UX Designer 
-Aya Taha_UI/UX Designer 
-Hussein Elyamany_UI/UX Designer 
+
+Yasmeen Mohamed_UI/UX Designer
+
+Heba Salah_UI/UX Designer
+
+Aya Taha_UI/UX Designer
+
+Hussein Elyamany_UI/UX Designer
+
+---
+
+## 👤 User Personas
+
+### 1. Mohamed Atta (Primary Persona)
+
+**About:** A university student who buys ready-made meals and baked goods 3–5 times a week. He looks for affordable deals nearby and wants to know the ingredients and details before ordering.
+
+**Needs**
+- Clear photos, ingredients, and meal details.
+- Easy comparison of prices and discounts.
+- Reliable reviews from past customers.
+- Cash or e-wallet payment with a clear total cost.
+
+**Frustrations**
+- Unclear prices or delivery fees before checkout.
+- Too many options to choose from.
+- Unsure about food quality and freshness.
+- Offers running out after he selects a meal.
+
+**Goals**
+- Find filling meals that fit his budget.
+- Discover nearby offers quickly.
+- Know all meal details before paying.
+- Order easily with a convenient payment method.
+
+**Behavior**
+- Compares price and quality before buying.
+- Prefers specific meals over surprise bags.
+- Cares about distance and how fast he can get his order.
+
+---
+
+### 2. Romaysaa Mohamed (Secondary Persona)
+
+**About:** A 38-year-old married mother, responsible for her household needs. She balances family spending with product quality and cares about offers that save money.
+
+**Needs**
+- Clear information on ingredients, quantity, and price.
+- Reliable reviews of the shop and food quality.
+- A variety of offers from well-known shops.
+- A choice between pickup and delivery based on family needs.
+
+**Frustrations**
+- Food quality is unclear.
+- She doesn't know the exact quantity.
+- She finds extra fees at checkout.
+- Hard to confirm a product is available before going to the shop.
+
+**Goals**
+- Save on food costs without losing quality.
+- Buy the right amount for her family.
+- Benefit from nearby bakery and restaurant offers.
+- Choose trusted shops and know product details.
+
+**Behavior**
+- Compares price, quantity, and quality.
+- Cares about the final cost before confirming the order.
