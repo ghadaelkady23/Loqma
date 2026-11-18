@@ -15,6 +15,7 @@ Heba Salah_UI/UX Designer
 Aya Taha_UI/UX Designer
 
 Hussein Elyamany_UI/UX Designer
+
 ---
 
 ## 📖 Project Idea
