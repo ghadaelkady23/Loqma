@@ -12,7 +12,7 @@ Heba Salah-UI&UX Designer
 
 Aya Taha-UI&UX Designer
 
-Hussein Hassan Elyamany
+Hussein Elyamany-UI&UX Designer
 
 ## Instructor:Eng.Mohamed Qamer
 
